@@ -2,4 +2,4 @@
 
 FROM postgres:14.2-bullseye
 
-USER 1000
+USER 999
