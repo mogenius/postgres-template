@@ -2,4 +2,4 @@
 
 FROM postgres:14.2-alpine
 
-USER 1000
+USER 1001
