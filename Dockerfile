@@ -1,3 +1,5 @@
 # https://hub.docker.com/_/postgres
 
-FROM postgres:13.3-alpine
+FROM postgres:14.2-alpine
+
+USER 1000
